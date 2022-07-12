@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- jquery 的库 搭配twbs-pagination实现分页 -->
+    <link rel="stylesheet" href="../../assets/vendors/bootstrap/css/bootstrap.css">
+    <script src="../../assets/vendors/jquery/jquery.js"></script>
+  <script src="../../assets/vendors/twbs-pagination/jquery.twbsPagination.js"></script>
+
+</head>
+<body>
+    <ul id="pagination-dome" class="pagination-sm"></ul>
+
+
+   
+   <script>
+    //  动态更新 分页插件
+     function f1(data)
+     {
+      $('#pagination-dome').twbsPagination('destroy');
+        $('#pagination-dome').twbsPagination({
+          // startPage: data, //初始化默认page是当前页 但是startPage是1 所以要每次给初始页赋值为当前页   
+          // 创建分页事件 点击一次 触发一次事件 获取当前页数进行加载这里的event表示 事件  page是每次拿到的参数
+          visiblePages: 5,// 这个表示分页数
+          totalPages:  , //这个表示总页数
+            onPageClick: function(event, page) {
+              // 将拿到的page传递给封装好的page1 让page的值传递给ajax 然后让其通过参数发送给服务端的mysql 通过limit分页查询
+           $('#page-content').text('Page'+page);
+            }
+          })
+    }
+
+
+    f1(10)
+
+
+   </script>
+</body>
+</html>

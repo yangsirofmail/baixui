@@ -1,0 +1,58 @@
+[29-Jun-2022 22:03:50 PRC] PHP Warning:  chmod(): Operation not permitted in /usr/local/httpd/baixiu/admin/api/upload.php on line 62
+[29-Jun-2022 22:15:46 PRC] PHP Warning:  mkdir(): Permission denied in /usr/local/httpd/baixiu/admin/api/upload.php on line 61
+[29-Jun-2022 22:15:46 PRC] PHP Warning:  move_uploaded_file(./upload/62bc5e92f164a.jpg): failed to open stream: No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 22:15:46 PRC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phptrxs10' to './upload/62bc5e92f164a.jpg' in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 22:16:30 PRC] PHP Warning:  mkdir(): Permission denied in /usr/local/httpd/baixiu/admin/api/upload.php on line 61
+[29-Jun-2022 22:16:30 PRC] PHP Warning:  move_uploaded_file(./upload/62bc5ebe53f0d.jpg): failed to open stream: No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 22:16:30 PRC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpHXUdsn' to './upload/62bc5ebe53f0d.jpg' in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:14:32 PRC] PHP Warning:  mkdir(): No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 61
+[29-Jun-2022 23:14:32 PRC] PHP Warning:  move_uploaded_file(/baixiu/uploads/62bc6c58216f2.jpg): failed to open stream: No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:14:32 PRC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpOkozsW' to '/baixiu/uploads/62bc6c58216f2.jpg' in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:16:23 PRC] PHP Warning:  mkdir(): No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 61
+[29-Jun-2022 23:16:23 PRC] PHP Warning:  move_uploaded_file(../../../uploads62bc6cc745462.jpg): failed to open stream: Permission denied in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:16:23 PRC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php9yQvAl' to '../../../uploads62bc6cc745462.jpg' in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:16:46 PRC] PHP Warning:  mkdir(): No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 61
+[29-Jun-2022 23:16:46 PRC] PHP Warning:  move_uploaded_file(../../../uploads/62bc6cde996b0.jpg): failed to open stream: No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:16:46 PRC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpUY0alp' to '../../../uploads/62bc6cde996b0.jpg' in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:17:44 PRC] PHP Warning:  mkdir(): No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 61
+[29-Jun-2022 23:17:44 PRC] PHP Warning:  move_uploaded_file(httpd/baixiu/uploads/62bc6d1885519.jpg): failed to open stream: No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:17:44 PRC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpOrDsTz' to 'httpd/baixiu/uploads/62bc6d1885519.jpg' in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:18:19 PRC] PHP Warning:  mkdir(): No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 61
+[29-Jun-2022 23:18:19 PRC] PHP Warning:  move_uploaded_file(httpd/baixiu/uploads/62bc6d3b5cf99.jpg): failed to open stream: No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:18:19 PRC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZyAr2i' to 'httpd/baixiu/uploads/62bc6d3b5cf99.jpg' in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:18:42 PRC] PHP Warning:  mkdir(): No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 61
+[29-Jun-2022 23:18:42 PRC] PHP Warning:  move_uploaded_file(/httpd/baixiu/uploads/62bc6d52a21bd.jpg): failed to open stream: No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:18:42 PRC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpl9FVn1' to '/httpd/baixiu/uploads/62bc6d52a21bd.jpg' in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:19:09 PRC] PHP Warning:  move_uploaded_file(/usr/local/httpd/baixiu/62bc6d6de6a2e.jpg): failed to open stream: Permission denied in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:19:09 PRC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZxSerI' to '/usr/local/httpd/baixiu/62bc6d6de6a2e.jpg' in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:20:15 PRC] PHP Warning:  move_uploaded_file(/usr/local/httpd/baixiu/uploads62bc6dafe5609.jpg): failed to open stream: Permission denied in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:20:15 PRC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpNCNtUP' to '/usr/local/httpd/baixiu/uploads62bc6dafe5609.jpg' in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:26:22 PRC] PHP Warning:  mkdir(): No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 61
+[29-Jun-2022 23:26:22 PRC] PHP Warning:  move_uploaded_file(/uploads/image/62bc6f1e7c3c3.jpg): failed to open stream: No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:26:22 PRC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpK6fKUY' to '/uploads/image/62bc6f1e7c3c3.jpg' in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:27:51 PRC] PHP Warning:  move_uploaded_file(/uploads/image/62bc6f7775576.jpg): failed to open stream: No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:27:51 PRC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpKhb3Ob' to '/uploads/image/62bc6f7775576.jpg' in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:28:12 PRC] PHP Warning:  move_uploaded_file(/baixiu/uploads/image/62bc6f8c27f4e.jpg): failed to open stream: No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:28:12 PRC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phprSXK31' to '/baixiu/uploads/image/62bc6f8c27f4e.jpg' in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:28:40 PRC] PHP Warning:  move_uploaded_file(/httpd/baixiu/uploads/image/62bc6fa80f397.jpg): failed to open stream: No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 74
+[29-Jun-2022 23:28:40 PRC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpF9k6wj' to '/httpd/baixiu/uploads/image/62bc6fa80f397.jpg' in /usr/local/httpd/baixiu/admin/api/upload.php on line 74
+[29-Jun-2022 23:33:16 PRC] PHP Warning:  mkdir() expects parameter 2 to be long, string given in /usr/local/httpd/baixiu/admin/api/upload.php on line 61
+[29-Jun-2022 23:33:16 PRC] PHP Warning:  move_uploaded_file(/uploads/image/62bc70bcb34da.jpg): failed to open stream: No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:33:16 PRC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpsjY9g3' to '/uploads/image/62bc70bcb34da.jpg' in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:33:59 PRC] PHP Warning:  mkdir() expects parameter 2 to be long, string given in /usr/local/httpd/baixiu/admin/api/upload.php on line 61
+[29-Jun-2022 23:33:59 PRC] PHP Warning:  move_uploaded_file(./uploads/image/62bc70e706b79.jpg): failed to open stream: No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:33:59 PRC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpXmfJCW' to './uploads/image/62bc70e706b79.jpg' in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:34:03 PRC] PHP Warning:  mkdir() expects parameter 2 to be long, string given in /usr/local/httpd/baixiu/admin/api/upload.php on line 61
+[29-Jun-2022 23:34:03 PRC] PHP Warning:  move_uploaded_file(./uploads/image/62bc70eb2ad1f.jpg): failed to open stream: No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:34:03 PRC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpfyRgQT' to './uploads/image/62bc70eb2ad1f.jpg' in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:34:37 PRC] PHP Warning:  mkdir() expects parameter 2 to be long, string given in /usr/local/httpd/baixiu/admin/api/upload.php on line 61
+[29-Jun-2022 23:34:37 PRC] PHP Warning:  move_uploaded_file(../uploads/image/62bc710d7c3c7.jpg): failed to open stream: No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:34:37 PRC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpeLxYEM' to '../uploads/image/62bc710d7c3c7.jpg' in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:35:25 PRC] PHP Warning:  move_uploaded_file(/uploads/image/62bc713d42490.jpg): failed to open stream: No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:35:25 PRC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpy3UhEA' to '/uploads/image/62bc713d42490.jpg' in /usr/local/httpd/baixiu/admin/api/upload.php on line 75
+[29-Jun-2022 23:40:43 PRC] PHP Warning:  move_uploaded_file(../../uploads/image/{yyyy}{mm}{dd}/{time}{rand:6}.jpg): failed to open stream: No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 77
+[29-Jun-2022 23:40:43 PRC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpA511oH' to '../../uploads/image/{yyyy}{mm}{dd}/{time}{rand:6}.jpg' in /usr/local/httpd/baixiu/admin/api/upload.php on line 77
+[29-Jun-2022 23:41:47 PRC] PHP Warning:  move_uploaded_file(../../uploads/image/{yyyy}{mm}{dd}/{time}{rand:6}.jpg): failed to open stream: No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 77
+[29-Jun-2022 23:41:47 PRC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjUPumg' to '../../uploads/image/{yyyy}{mm}{dd}/{time}{rand:6}.jpg' in /usr/local/httpd/baixiu/admin/api/upload.php on line 77
+[29-Jun-2022 23:42:26 PRC] PHP Warning:  move_uploaded_file(../../uploads/image/{yyyy}{mm}{dd}/{time}{rand:6}.jpg): failed to open stream: No such file or directory in /usr/local/httpd/baixiu/admin/api/upload.php on line 77
+[29-Jun-2022 23:42:26 PRC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpaleorM' to '../../uploads/image/{yyyy}{mm}{dd}/{time}{rand:6}.jpg' in /usr/local/httpd/baixiu/admin/api/upload.php on line 77

@@ -1,0 +1,13 @@
+这个是百秀的项目 照着视频写的
+并且这个大部分都没有完成
+账号密码我没改
+账号admin@zce.me
+密码wanglei
+mysql 
+ip 192.168.10.41
+root
+123456
+必备环境
+apache  环境
+php
+mysql
